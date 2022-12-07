@@ -5,5 +5,7 @@ public class company {
         System.out.println("나는 마스터이다.");
 
         System.out.println("practice");
+        
+        System.out.println("나는 무적 ");
     }
 }
